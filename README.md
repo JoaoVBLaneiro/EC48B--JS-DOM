@@ -2,7 +2,7 @@
 
 Repositório para armazenar a Segunda Atividade da disciplina de Web Back-End pela UTFPR - feito por João Laneiro.
 
-Disponível em: https://joaovblaneiro.github.io/Web-Back-End-EC48B-C81--JS-DOM/
+Disponível em: https://joaovblaneiro.github.io/EC48B--JS-DOM/
 
 
 ## Lista de Tarefas:
